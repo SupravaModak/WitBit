@@ -14,7 +14,7 @@ E-Mail - modaksuprava.74@gmail.com
 
 About Arshiya:
 Arshiya , is a sweet and caring girl , she is the better-half of Suprava 
-and she loves white roses 
+and loves white roses 
 
 About Cristiano Ronaldo/cristiano ronaldo:
 Cristiano Ronaldo is a highly accomplished and famous professional footballer (soccer player). He's known for his incredible skill, athleticism, goal-scoring ability, and numerous awards and achievements throughout his career. He has played for top clubs like Manchester United, Real Madrid, Juventus, and currently plays for Al Nassr and the Portugal national team. He's considered one of the greatest football players of all time.
