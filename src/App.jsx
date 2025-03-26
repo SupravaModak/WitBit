@@ -28,7 +28,7 @@ const App = () => {
     };
 
     try{
-      const response=await fetch(import.meta.env.VITE_WITBIT_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCwaQXMDGWa8gjpEu6iI6n_StY0CoYJd6M, requestOptions);
+      const response=await fetch(import.meta.env.VITE_WITBIT_API_URL, requestOptions);
       const data = await response.json();
       if(!response.ok) throw new Error(data.error.message || "Oops! Something is wrong");
       const apiResponseText=data.candidates[0].content.parts[0].text.replace(/\*\*(.*?)\*\*/g, "$1").trim();
